@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/practicingReactDeployment/static/css/main.5f361e03.chunk.css",
+    "main.js": "/github.io/practicingReactDeployment/static/js/main.b2f25ab6.chunk.js",
+    "main.js.map": "/github.io/practicingReactDeployment/static/js/main.b2f25ab6.chunk.js.map",
+    "runtime-main.js": "/github.io/practicingReactDeployment/static/js/runtime-main.163f8117.js",
+    "runtime-main.js.map": "/github.io/practicingReactDeployment/static/js/runtime-main.163f8117.js.map",
+    "static/js/2.df9f8bfb.chunk.js": "/github.io/practicingReactDeployment/static/js/2.df9f8bfb.chunk.js",
+    "static/js/2.df9f8bfb.chunk.js.map": "/github.io/practicingReactDeployment/static/js/2.df9f8bfb.chunk.js.map",
+    "index.html": "/github.io/practicingReactDeployment/index.html",
+    "precache-manifest.c867757075ac37442cb251207626fe69.js": "/github.io/practicingReactDeployment/precache-manifest.c867757075ac37442cb251207626fe69.js",
+    "service-worker.js": "/github.io/practicingReactDeployment/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/github.io/practicingReactDeployment/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.df9f8bfb.chunk.js.LICENSE.txt": "/github.io/practicingReactDeployment/static/js/2.df9f8bfb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/github.io/practicingReactDeployment/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.163f8117.js",
+    "static/js/2.df9f8bfb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b2f25ab6.chunk.js"
+  ]
+}
